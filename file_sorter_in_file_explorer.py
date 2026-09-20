@@ -35,8 +35,6 @@ for file in files:
         if Path(file).suffix == ext:
             shutil.move(path+file, path + f'{ext}/' + file)
 
-        
-    
 
 
         
