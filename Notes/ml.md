@@ -1,0 +1,4 @@
+- Decision tree model
+- The step of capturing patterns from data is called fitting or training the model. The data used to fit the model is called the training data.
+- After the model has been fit, you can apply it to new data to make predictions
+- 
